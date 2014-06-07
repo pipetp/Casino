@@ -1,4 +1,4 @@
-# Jeu de roulette simulé
+# Jeu de roulette simulé hhh
 import os
 from random import randrange
 from math import ceil
